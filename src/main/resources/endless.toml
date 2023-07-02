@@ -1,0 +1,5 @@
+# Whether to log when a player attempts to use a portal
+verbose = false
+
+# Whether ender eyes can be used to activate portals
+ender_eye_activation = true
